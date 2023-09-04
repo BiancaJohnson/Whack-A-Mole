@@ -235,8 +235,8 @@ function startTimer() {
 */
 function whack(event) {
   // TODO: Write your code here.
+   hit.play();
   updateScore();
-  hit.play();
   return points;
 }
 

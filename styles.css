@@ -1,5 +1,5 @@
 html {
- background: url('Kung_Fu_Panda.jpg'); /* updated*/
+ background: url('/Kung_Fu_Panda.jpg'); /* updated*/
  box-sizing: border-box;
  background-size: cover;
  -webkit-background-size: cover;
@@ -68,7 +68,7 @@ h2 {
 
 .hole:after {
   display: block;
- background: url('Dojo.png') bottom center no-repeat;
+ background: url('./Dojo.png') bottom center no-repeat;
  background-size:contain;
   content:'';
   width: 180px;
@@ -80,7 +80,7 @@ h2 {
 }
 
 .mole {
- background: url('Tai.png') bottom center no-repeat;
+ background: url('/Tai.png') bottom center no-repeat;
  background-size: 50%;
   position: absolute;
   top: 100%;

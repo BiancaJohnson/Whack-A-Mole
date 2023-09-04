@@ -1,5 +1,5 @@
 html {
- background: url("/Kung_Fu_Panda.jpg"); /* updated*/
+ background: url("./Kung_Fu_Panda.jpg"); /* updated*/
  box-sizing: border-box;
  background-size: cover;
  -webkit-background-size: cover;
